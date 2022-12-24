@@ -9,4 +9,4 @@ Just clone this repo and run:
 ##
 Or, you can install this app from existing exe file:
 ##
-http://bla-bla/skoro/tut/budet/exe
+http://skoro/tut/budet/exe
